@@ -1,0 +1,26 @@
+.esquerda {
+    width: 578px;
+    height: 376px;
+}
+
+.centro {
+    width: 900px;
+    height: 376px;
+}
+
+.design {
+    display: flex;
+     margin-top: 150px;
+  }
+
+.direita {
+    width: 578;
+    height: 376px;
+}  
+
+.legenda{
+    padding-top: 30px;
+    color:#38b6ff;
+
+}
+  

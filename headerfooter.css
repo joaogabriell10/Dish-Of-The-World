@@ -1,0 +1,122 @@
+header {
+    background-color: #38b6ff;
+}
+
+.logo {
+    width: 127px;
+    height: 105px;
+    top: 9px;
+    border-radius: 1px;
+}
+
+.head {
+    display: flex;
+}
+
+
+.lupa {
+    width: 39px;
+    height: 30px;
+    color: #FF6C1A;
+    margin-top: 2px;
+}  
+
+.dist {
+    padding-left: 5%;
+    padding-top: 30px;
+}
+
+.dista {
+  padding-left: 55%;
+  padding-top: 1%;
+}
+
+.search-box {
+  display:flex ;
+  justify-content: center;
+  background-color: #f9f9f9;
+  padding: 1%;
+  border-radius: 32px;
+}
+
+.search-box input {
+  border: 0;
+  background-color: transparent;
+  font-size: 16px;
+  width: 0;
+  transition: 0.8s;
+}
+
+.search-box:hover input {
+  display: inline;
+  width: 300px;
+}
+
+.search-box button {
+  padding: 10px;
+  border:0;
+  background-color: #fff;
+  color: #fff;
+  font-size: 16px;
+  border-radius: 50%;
+  cursor: pointer;
+}
+
+
+.casa {
+  display: inline-block;
+  height: 70px;
+  width: 70px;
+  margin-left: 30px;
+}
+
+.terra {
+  width: 64px;
+  height: 64px;
+  margin-left: 20px;
+}
+
+.heart {
+ width: 64px;
+ height: 64px;
+ margin-left: 20px;
+}
+
+
+
+footer {
+  background-color: #38bcff;
+  color: #fff;
+  text-align: center;
+  padding: 40px 0;
+  margin-top: 50px;
+  clear: both; /* Limpa flutuações anteriores */
+}
+
+.footer-info {
+  justify-content: space-around;
+  display: flex;
+}
+
+.footer-column {
+  margin: 0 20px;
+}
+
+.footer-column h3 {
+  margin-bottom: 10px;
+}
+
+.footer-column ul {
+  list-style: none;
+  padding: 0;
+}
+
+.footer-column ul li {
+  margin-bottom: 5px;
+}
+
+.bottom-footer {
+  background-color: #222d8b;
+  padding: 10px 0;
+  margin-top: 50px; /* Aumenta o espaçamento no topo do rodapé */
+}
