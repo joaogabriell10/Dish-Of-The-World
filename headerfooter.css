@@ -17,18 +17,17 @@ header {
 .lupa {
     width: 39px;
     height: 30px;
-    color: #FF6C1A;
     margin-top: 2px;
 }  
 
 .dist {
-    padding-left: 5%;
-    padding-top: 30px;
+    padding-left: 12%;
+    padding-top: 20px;
 }
 
 .dista {
-  padding-left: 55%;
-  padding-top: 1%;
+  padding-left: 10%;
+  padding-top: 2%;
 }
 
 .search-box {

@@ -1,10 +1,10 @@
 .esquerda {
-    width: 578px;
+    width: 400px;
     height: 376px;
 }
 
 .centro {
-    width: 900px;
+    width: 700px;
     height: 376px;
 }
 
@@ -14,7 +14,7 @@
   }
 
 .direita {
-    width: 578;
+    width: 400px;
     height: 376px;
 }  
 
@@ -23,12 +23,9 @@
     color:#38b6ff;
 }
   
-.container {
-    max-width: 1200px;
-    padding: 20px;
+
+.alinhamento {
     display: flex;
-    flex-wrap: wrap;
-    
 }
 
 .product-card {
@@ -40,7 +37,7 @@
     padding: 20px;
     text-align: center;
     transition: transform 0.2s;
-    max-width: calc(33.33% - 20px); /* 3 produtos por linha com margens */
+    max-width: calc(24.24% - 15px); /* 3 produtos por linha com margens */
 }
 
 .product-card:hover {
@@ -64,9 +61,13 @@
 
 .add-to-cart:hover {
     background-color: #228B22;
-}
+}ent
 
 .cart {
     position: relative;
 }
 
+.italia { 
+    height: 40px;
+    width: 40px;
+}
