@@ -1,4 +1,9 @@
 .africa {
+    padding-top: 120px;
     width: 100%;
-    height: 450px;
+    height: 20%;
+}
+
+.legenda {
+    color:#38b6ff;
 }
