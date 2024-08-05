@@ -1,25 +1,14 @@
-.esquerda {
-    width: 400px;
-    height: 376px;
-}
-
-.centro {
-    width: 700px;
-    height: 376px;
-}
-
 .design {
     display: flex;
      margin-top: 150px;
   }
 
-.direita {
-    width: 400px;
-    height: 376px;
-}  
+.desigo {
+    width: 100%;
+}
 
 .legenda{
-    padding-top: 30px;
+    ;
     color:#38b6ff;
 }
   

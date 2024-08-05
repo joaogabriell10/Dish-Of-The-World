@@ -21,13 +21,13 @@ header {
 }  
 
 .dist {
-    padding-left: 12%;
-    padding-top: 20px;
+    padding-left: 5%;
+    padding-top: 25px;
 }
 
 .dista {
-  padding-left: 10%;
-  padding-top: 2%;
+  padding-left: 25%;
+  padding-top: 25px;
 }
 
 .search-box {
@@ -42,7 +42,7 @@ header {
   border: 0;
   background-color: transparent;
   font-size: 16px;
-  width: 300px;
+  width: 100%;
 }
 
 .search-box button {
