@@ -51,7 +51,7 @@ p {
 }
 
 .add-to-cart {
-    background-color: #32CD32;
+    background-color: #1E90FF;
     color: #fff;
     border: none;
     padding: 10px 20px;
@@ -61,15 +61,38 @@ p {
 }
 
 .add-to-cart:hover {
-    background-color: #228B22;
+    background-color: #222d8b;
 }
 
 .cart {
     position: relative;
 }
 
-.italia { 
-    height: 40px;
-    width: 40px;
+.espanha {
+    width: 35px;
+    height: 35px;
 }
 
+.frança {
+    width: 30px;
+    height: 30px;
+}
+
+.australia {
+    width: 30px;
+    height: 30px;
+}
+
+.ira {
+    width: 30px;
+    height: 30px;
+}
+
+.marrocos {
+    width: 25px;
+    height: 25px;
+}
+
+h7 {
+    padding-top: 2%;
+}
