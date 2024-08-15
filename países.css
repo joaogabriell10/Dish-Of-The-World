@@ -1,0 +1,60 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 5%;
+}
+.elemento {
+    width: 200px;
+    margin-right: 15%;
+    position: relative;
+    right: 19%;
+}
+.containerr{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 30%;
+}
+.elementos{
+    width: 200px;
+    margin-right: 21%;
+    position: relative;
+    right: 2010px;
+}
+.cont{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 60%;
+}
+.elem{
+    width: 200px;
+    margin-right: 21%;
+    position: relative;
+    right: 3808px;
+}
+.con{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    padding: 90%;
+}
+.ele{
+    width: 200px;
+    margin-right: 21%;
+    position: relative;
+    right: 6273px ;
+}
+.co{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding: 120%;
+}
+.el{
+    width: 200px;
+    margin-right: 21%;
+    position: relative;
+    right: 9403px ;
+}
