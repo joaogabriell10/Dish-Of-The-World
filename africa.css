@@ -3,6 +3,10 @@
     width: 100%;
 }
 
+a{
+    text-decoration: none;
+}
+
 .legenda {
     color:#38b6ff;
     margin-left: 3%;
@@ -38,7 +42,7 @@
     padding: 20px;
     text-align: center;
     transition: transform 0.2s;
-    max-width: calc(55.33% - 8px); /* 3 produtos por linha com margens */
+    max-width: calc(55.33% - 100px); /* 3 produtos por linha com margens */
 }
 
 .produto:hover {
@@ -66,4 +70,8 @@
 
 .cart {
     position: relative;
+}
+
+p {
+    font-size: 25px;
 }
