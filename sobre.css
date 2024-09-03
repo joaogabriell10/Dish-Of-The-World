@@ -1,0 +1,12 @@
+h1 {
+    text-align: center;
+    color:#38b6ff;
+}
+.d-flex {
+    display: flex;
+}
+.marmita {
+    width: 40%;
+    height: auto;   
+}
+
