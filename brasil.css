@@ -1,23 +1,27 @@
-p {
-    font-weight: bold;
-}
-.design {
-    display: flex;
-     margin-top: 150px;
-  }
-
-.desigo {
+.brasil {
+    padding-top: 120px;
     width: 100%;
 }
 
-.legenda{
-    color:#38b6ff;
-    padding-top: 5%;
+a{
+    text-decoration: none;
 }
-  
 
-.alinhamento {
-    display: flex;
+.legenda {
+    color:#38b6ff;
+    margin-left: 3%;
+   
+}
+
+.espaço {
+    display: inline;
+    margin-left: 80%;
+   
+}
+
+.prato {
+    margin-top: 10%;
+    margin-left: 3%;
 }
 
 .conta {
@@ -38,7 +42,7 @@ p {
     padding: 20px;
     text-align: center;
     transition: transform 0.2s;
-    max-width: calc(20.33% - 6px); /* 3 produtos por linha com margens */
+    max-width: calc(55.33% - 100px); /* 3 produtos por linha com margens */
 }
 
 .produto:hover {
@@ -68,32 +72,6 @@ p {
     position: relative;
 }
 
-.espanha {
-    width: 35px;
-    height: 35px;
+p {
+    font-size: 25px;
 }
-
-.frança {
-    width: 30px;
-    height: 30px;
-}
-
-.australia {
-    width: 30px;
-    height: 30px;
-}
-
-.ira {
-    width: 30px;
-    height: 30px;
-}
-
-.marrocos {
-    width: 25px;
-    height: 25px;
-}
-
-h7 {
-    padding-top: 2%;
-}
-
