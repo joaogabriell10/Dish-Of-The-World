@@ -1,9 +1,21 @@
-.principal {
-    padding-top: 80px;
-    padding-left: 28%;
+.principal img {
+    padding-left: 2%;
+    margin-right: 5%;
 }
 
+.chili {
+    width: 35%;
+    padding-top: 5%;
+    margin-left: 30%;
+ }
+
 .legenda {
-    text-align: center;
+    text-align: center ;
     color: #222d8b;
+}
+
+p {
+    text-align: center;
+    font-size: 150%;
+    
 }
