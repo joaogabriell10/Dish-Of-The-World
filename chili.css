@@ -1,12 +1,19 @@
+body {
+    background-image: url(../Dish-Of-The-World/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
 .principal img {
     padding-left: 2%;
     margin-right: 5%;
 }
 
 .chili {
-    width: 35%;
+    width: 55%;
+    height: auto;
     padding-top: 5%;
-    margin-left: 30%;
+    margin-left: 20%;
  }
 
 .legenda {
@@ -17,5 +24,33 @@
 p {
     text-align: center;
     font-size: 150%;
-    
+}
+strong {
+    font-size: 260%;
+}
+
+h6 {
+    font-size: 150%;
+}
+.linha {
+    padding-left: 5%;
+}
+
+.tipo {
+    color:#1E90FF;
+    display: inline;
+}
+
+.espaço {
+    display: inline;
+    margin-left: 65%;
+    color: #1E90FF;
+}
+
+.valor {
+    text-align: center;
+}
+
+.valor img {
+    width: 35%;
 }
