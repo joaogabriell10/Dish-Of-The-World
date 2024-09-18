@@ -1,8 +1,4 @@
-body {
-    background-image: url(../Dish-Of-The-World/back.jpg);
-    background-repeat: no-repeat;
-    background-size: cover;
-}
+
 p {
     font-weight: bold;
 }
@@ -78,10 +74,7 @@ p {
     height: 35px;
 }
 
-.frança {
-    width: 30px;
-    height: 30px;
-}
+
 
 .australia {
     width: 30px;

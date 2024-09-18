@@ -1,3 +1,8 @@
+body {
+  background-image: url(../Dish-Of-The-World/);
+  background-repeat:repeat;
+}
+
 header {
     background-color: #38b6ff;
 }
@@ -86,7 +91,7 @@ footer {
   color: #fff;
   text-align: center;
   padding: 40px 0;
-  margin-top: 15%;
+  margin-top: 5%;
   clear: both; /* Limpa flutuações anteriores */
 }
 
