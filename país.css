@@ -8,6 +8,5 @@
 .container img {
     width: 80%;
     border: 5px;
-    border-color: black;
+    border:solid 1px black;
 }
-
